@@ -15,7 +15,7 @@ This project will keep the list of open source homemade medical ventilators to k
 
 - [Open Source Ventilator (OSV) Ireland](https://opensourceventilator.ie/) - OSV Ireland was formed by Colin Keogh, Conall Laverty & David Pollard, with the goal of building a focused team in Ireland to begin development of a Field Emergency Ventilator (FEV) in partnership with the Irish Health Service. To date we have formed a team of engineers, designers and medical practitioners to develop new, low resource interventions, all working collaboratively online. Bag Valve Masks (BVM), 3D printed and traditionally manufactured components are being considered to maximise potential manufacturing capabilities. We will also include other challenges and problems as they arise from frontline healthcare workers, which we will encourage our volunteers to tackle.
 
-- [OpenLung BVM Ventilator] (https://gitlab.com/open-source-ventilator/OpenLung) - An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component. An open collaboration with http://opensourceventilator.ie/.
+- [OpenLung BVM Ventilator](https://gitlab.com/open-source-ventilator/OpenLung) - An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component. An open collaboration with http://opensourceventilator.ie/.
 
 - [https://www.projectopenair.org/](https://www.projectopenair.org/) - We are working on medical devices, to have a fast and easy solution that can be reproduced and assembled locally worldwide. 
 

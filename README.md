@@ -19,7 +19,7 @@ This project will keep the list of open source homemade medical ventilators to k
 
 - [https://www.projectopenair.org/](https://www.projectopenair.org/) - We are working on medical devices, to have a fast and easy solution that can be reproduced and assembled locally worldwide. 
 
-- [https://www.gofundme.com/f/open-source-pandemic-ventilator] (https://www.gofundme.com/f/open-source-pandemic-ventilator) - We are a team of engineers with backgrounds in nuclear power, submarine life support, medical device, quality assurance, and project management from Berkeley, Denver, and places around the world an emergency ventilator to address the looming shortage in the developing world.
+- [https://www.gofundme.com/f/open-source-pandemic-ventilator](https://www.gofundme.com/f/open-source-pandemic-ventilator) - We are a team of engineers with backgrounds in nuclear power, submarine life support, medical device, quality assurance, and project management from Berkeley, Denver, and places around the world an emergency ventilator to address the looming shortage in the developing world.
 
 Our efforts started when a doctor sent us a plan for a DIY ventilator. She knew her hospital was going to run out of ventilators as COVID 19 cases rose—leading to a situation where she would to choose who survives and who doesn't. This is a reality. This is happening today in Spain and Italy, soon in the US, and likely happen even harsher in the developing world.
 
@@ -32,9 +32,7 @@ Many of us modify, hack, re-purpose, and DIY to save money, build something uniq
 - [Low-Cost Open-Source Ventilator-ish Device or PAPR](https://github.com/jcl5m1/ventilator) - NOTE: This is currently an independent project not affiliated with any commercial institution.
 In the event that COVID-19 hospitalizations exhaust the availability of FDA approved ventilators. This project documents the process of converting a low-cost CPAP (Continuous Positive Airway Pressure) blower into a rudimentary non-invasive pressure support ventilator that could help with breathing during respiratory distress.
 
-This same project can also be used to create a reasonable low-cost Powered Air Purifying Respirator (PAPR) with filter adapter and mask. PAPRs are effective pieces of Personal Protective Equipment (PPE) that could be helpful to caregivers. PAPRs will also be in extremely short supply and are much less risky and controversial than a DIY ventilator. You may be able to save many more lives by building a PAPR that protects a caregiver than a mediocre ventilator for one patient. Unless you are able to participate in the detailed engineering and medical discussions regarding mitigating the risks of high pressure ventilation, I would highly recommend focusing on the PAPR version of this build.
-
-- 
+This same project can also be used to create a reasonable low-cost Powered Air Purifying Respirator (PAPR) with filter adapter and mask. PAPRs are effective pieces of Personal Protective Equipment (PPE) that could be helpful to caregivers. PAPRs will also be in extremely short supply and are much less risky and controversial than a DIY ventilator. You may be able to save many more lives by building a PAPR that protects a caregiver than a mediocre ventilator for one patient. Unless you are able to participate in the detailed engineering and medical discussions regarding mitigating the risks of high pressure ventilation, I would highly recommend focusing on the PAPR version of this build. 
 
 
 # Other
@@ -46,7 +44,7 @@ I’d like to thank those who have helped me improve this document.
 We are specifically looking for hardware that: 1) can be digitally manufactured using accessible low-cost fabrication tools like 3-D printers and 2) those that can be readily constructed from widely accessible materials and simple tools (e.g. DIY hardware store sourced).
 
 - [Helpful Engineering](https://app.jogl.io/project/121#about) - HelpfulEngineers is an open source group of 3,000+ members looking for solutions to COVID19 https://twitter.com/helpfuleng
-- [coronavirusmakers](https://www.coronavirusmakers.org/index.php/es/ - forum in Spanish about DIY ventilators.
+- [coronavirusmakers](https://www.coronavirusmakers.org/index.php/es/) - forum in Spanish about DIY ventilators.
 
 - [https://coronavirustechhandbook.com/home](https://coronavirustechhandbook.com/home) - The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public and private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors. 
 - [https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j](https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j) - lot's of specifications and documentations for different ventilators.

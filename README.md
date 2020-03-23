@@ -49,3 +49,8 @@ We are specifically looking for hardware that: 1) can be digitally manufactured 
 
 - [https://coronavirustechhandbook.com/home](https://coronavirustechhandbook.com/home) - The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public and private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors. 
 - [https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j](https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j) - lot's of specifications and documentations for different ventilators.
+
+# Prizes, Grants, Challenges
+
+- [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge/agreements) - The Montreal General Hospital Foundation , in collaboration with the Research Institute of the McGill University Health Centre (MUHC), is launching a global innovation challenge, backed by a $200,000 CAD prize, calling for teams to design a simple, low-cost, easy-to-manufacture and easy-to-maintain ventilator which could be deployed anywhere needed to save lives.
+This Challenge begins on March 18th and ends on March 31st at 24:00 EST. The Challenge will be accessible 24 hours a day on the dedicated Challenge website operated by Agorize at www.agorize.com/challenges/code-life-challenge (“the Challenge website”), subject to possible IT maintenance operations and malfunctions. Dates and times in these Rules refer to Eastern Standard Time.

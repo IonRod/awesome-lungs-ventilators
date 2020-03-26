@@ -36,6 +36,9 @@ This same project can also be used to create a reasonable low-cost Powered Air P
 
 - [OxVent](https://oxvent.org/) - We are a team of Engineers, Clinicians & Manufacturers from @oxengsci @KingsCollegeLon @UniofOxford building a rapid prototype Ventilator for COVID-19. Join us!
 
+- [VentilatorPAL](https://freebreathing.org/) - VentilatorPAL is a not-for-profit solution to the acute lack of respirators for the rapidly growing number of COVID-19 patients around the world.
+VentilatorPAL is a high-quality but low-cost, open source ventilator that can be bought or built by anyone for a fraction of the cost of commercial ventilators.
+
 # Other
 - [Specifications for simple open source mechanical ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/preview) - This is a living document intended to give non-clinicians/non-respiratory therapists an idea of key ventilator features and one proposed simplified design. I encourage other healthcare professionals who are very familiar with ventilators and their use to give me feedback using the comments feature to improve these specifications.
 I’d like to thank those who have helped me improve this document.

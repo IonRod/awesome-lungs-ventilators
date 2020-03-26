@@ -39,6 +39,15 @@ This same project can also be used to create a reasonable low-cost Powered Air P
 - [VentilatorPAL](https://freebreathing.org/) - VentilatorPAL is a not-for-profit solution to the acute lack of respirators for the rapidly growing number of COVID-19 patients around the world.
 VentilatorPAL is a high-quality but low-cost, open source ventilator that can be bought or built by anyone for a fraction of the cost of commercial ventilators.
 
+- [https://www.ventilaid.org/](https://www.ventilaid.org/) - We are a group of engineers and designers who constantly develop and share to the public the VentilAid project, open source ventilator, that can be made anywhere locally with 3D printer and very basic parts. Ventilators are essential to keep breathing when faced with the complications of COVID19.
+We believe COVID19 pandemic will pass with minimized harm to mankind thanks to proper use of technology and solidarity in sharing knowledge.
+
+- [MIT Emergency Ventilator (E-Vent) Project](https://e-vent.mit.edu/) - Key Research Question
+We have launched an emergency research project with a team of MIT Engineers and American clinicians to address the question:
+Is it possible to safely ventilate a COVID-19 patient by automatically actuating a manual resuscitator?
+
+- [Open Source Ventilator Project by The Center for Safety, Simulation and Advanced Learning Technologies](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/) - This open source project has been created to address predicted ventilator shortage worldwide due to the COVID-19 pandemic and host open source contributions – Distribute freely
+
 # Other
 - [Specifications for simple open source mechanical ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/preview) - This is a living document intended to give non-clinicians/non-respiratory therapists an idea of key ventilator features and one proposed simplified design. I encourage other healthcare professionals who are very familiar with ventilators and their use to give me feedback using the comments feature to improve these specifications.
 I’d like to thank those who have helped me improve this document.
@@ -52,6 +61,8 @@ We are specifically looking for hardware that: 1) can be digitally manufactured 
 
 - [https://coronavirustechhandbook.com/home](https://coronavirustechhandbook.com/home) - The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public and private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors. 
 - [https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j](https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j) - lot's of specifications and documentations for different ventilators.
+
+- [EASY COVID 19](https://www.isinnova.it/easy-covid19-eng/) - Emergency mask for hospital ventilators
 
 # Prizes, Grants, Challenges
 

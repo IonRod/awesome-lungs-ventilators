@@ -1,4 +1,4 @@
-m# awesome-lungs-ventilators
+# awesome-lungs-ventilators
 List of open-source lungs ventilation projects 
 
 
@@ -21,17 +21,9 @@ This project will keep the list of open source homemade medical ventilators to k
 
 - [https://www.gofundme.com/f/open-source-pandemic-ventilator](https://www.gofundme.com/f/open-source-pandemic-ventilator) - We are a team of engineers with backgrounds in nuclear power, submarine life support, medical device, quality assurance, and project management from Berkeley, Denver, and places around the world an emergency ventilator to address the looming shortage in the developing world.
 
-Our efforts started when a doctor sent us a plan for a DIY ventilator. She knew her hospital was going to run out of ventilators as COVID 19 cases rose—leading to a situation where she would to choose who survives and who doesn't. This is a reality. This is happening today in Spain and Italy, soon in the US, and likely happen even harsher in the developing world.
+- [The Pandemic Ventilator Project](https://www.instructables.com/id/The-Pandemic-Ventilator/) - Assembly instructions for a DIY Ventilator prototype. Many of us modify, hack, re-purpose, and DIY to save money, build something unique, create art, or show the world that there is a better way to use some device. And sometimes, just because it's cool. This is something different. It is a ventilator, and ventilators are meant to save lives. This project is called the Pandemic Ventilator, because it is meant to be used as a ventilator of last resort during a possible avian (bird) flu pandemic.
 
-- [The Pandemic Ventilator Project](https://www.instructables.com/id/The-Pandemic-Ventilator/) - Assembly instructions for a DIY Ventilator prototype.
-This could be useful in an Avian Flu pandemic.
-Constructed with commonly available components.
-
-Many of us modify, hack, re-purpose, and DIY to save money, build something unique, create art, or show the world that there is a better way to use some device. And sometimes, just because it's cool. This is something different. It is a ventilator, and ventilators are meant to save lives. This project is called the Pandemic Ventilator, because it is meant to be used as a ventilator of last resort during a possible avian (bird) flu pandemic.
-
-- [Low-Cost Open-Source Ventilator-ish Device or PAPR](https://github.com/jcl5m1/ventilator) - NOTE: This is currently an independent project not affiliated with any commercial institution.
-In the event that COVID-19 hospitalizations exhaust the availability of FDA approved ventilators. This project documents the process of converting a low-cost CPAP (Continuous Positive Airway Pressure) blower into a rudimentary non-invasive pressure support ventilator that could help with breathing during respiratory distress.
-
+- [Low-Cost Open-Source Ventilator-ish Device or PAPR](https://github.com/jcl5m1/ventilator) - In the event that COVID-19 hospitalizations exhaust the availability of FDA approved ventilators. This project documents the process of converting a low-cost CPAP (Continuous Positive Airway Pressure) blower into a rudimentary non-invasive pressure support ventilator that could help with breathing during respiratory distress.
 This same project can also be used to create a reasonable low-cost Powered Air Purifying Respirator (PAPR) with filter adapter and mask. PAPRs are effective pieces of Personal Protective Equipment (PPE) that could be helpful to caregivers. PAPRs will also be in extremely short supply and are much less risky and controversial than a DIY ventilator. You may be able to save many more lives by building a PAPR that protects a caregiver than a mediocre ventilator for one patient. Unless you are able to participate in the detailed engineering and medical discussions regarding mitigating the risks of high pressure ventilation, I would highly recommend focusing on the PAPR version of this build. 
 
 - [OxVent](https://oxvent.org/) - We are a team of Engineers, Clinicians & Manufacturers from @oxengsci @KingsCollegeLon @UniofOxford building a rapid prototype Ventilator for COVID-19. Join us!
@@ -39,7 +31,7 @@ This same project can also be used to create a reasonable low-cost Powered Air P
 - [VentilatorPAL](https://freebreathing.org/) - VentilatorPAL is a not-for-profit solution to the acute lack of respirators for the rapidly growing number of COVID-19 patients around the world.
 VentilatorPAL is a high-quality but low-cost, open source ventilator that can be bought or built by anyone for a fraction of the cost of commercial ventilators.
 
-- [https://www.ventilaid.org/](https://www.ventilaid.org/) - We are a group of engineers and designers who constantly develop and share to the public the VentilAid project, open source ventilator, that can be made anywhere locally with 3D printer and very basic parts. Ventilators are essential to keep breathing when faced with the complications of COVID19.
+- [VentilAid](https://www.ventilaid.org/) - We are a group of engineers and designers who constantly develop and share to the public the VentilAid project, open source ventilator, that can be made anywhere locally with 3D printer and very basic parts. Ventilators are essential to keep breathing when faced with the complications of COVID19.
 We believe COVID19 pandemic will pass with minimized harm to mankind thanks to proper use of technology and solidarity in sharing knowledge.
 
 - [MIT Emergency Ventilator (E-Vent) Project](https://e-vent.mit.edu/) - Key Research Question
@@ -57,9 +49,11 @@ I’d like to thank those who have helped me improve this document.
 We are specifically looking for hardware that: 1) can be digitally manufactured using accessible low-cost fabrication tools like 3-D printers and 2) those that can be readily constructed from widely accessible materials and simple tools (e.g. DIY hardware store sourced).
 
 - [Helpful Engineering](https://app.jogl.io/project/121#about) - HelpfulEngineers is an open source group of 3,000+ members looking for solutions to COVID19 https://twitter.com/helpfuleng
+
 - [coronavirusmakers](https://www.coronavirusmakers.org/index.php/es/) - forum in Spanish about DIY ventilators.
 
 - [https://coronavirustechhandbook.com/home](https://coronavirustechhandbook.com/home) - The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public and private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors. 
+
 - [https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j](https://drive.google.com/drive/folders/1TrHL40-RwSL_yWivaRF8GyKmLVJMr63j) - lot's of specifications and documentations for different ventilators.
 
 - [EASY COVID 19](https://www.isinnova.it/easy-covid19-eng/) - Emergency mask for hospital ventilators
